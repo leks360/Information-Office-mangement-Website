@@ -1,9 +1,11 @@
 # Information-Office-mangement-Website
 A Information/Office Management App
 
+Live View : http://dgm-ims.herokuapp.com/
 [ Please Use the Credentials]
 username: dgm
 password: 12345
+
 
 A Information Management Website Developed for an Office to make the storing and accessibility of data easier 
 It supports User authentication & authorization.
