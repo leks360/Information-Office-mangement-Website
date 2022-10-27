@@ -11,10 +11,10 @@ A Information Management Website Developed for an Office to make the storing and
 It supports User authentication & authorization.
 Has all CRUD operations, (upload , view ,download , find , sort data by features)
 
-Purpose : Datas in the office became very hard to manage since most of it was stored offline and on google sheets,
-managing different forms of data became hard and finding of documents was a tedious process.
-This web-app solves the problem by clubbing all the features required by the office in managing the projects and data.
-has easy and fast accessibility.
+Purpose : Data in the Fffice became very hard to manage since most of it was stored offline and on google sheets,
+managing different forms of data and finding of documents was a tedious process.
+This web-app solves all the problem by clubbing all the features required by the office in managing the projects and data in a single page.h
+Has easy and fast accessibility and reduced the turnover time of daily tasks in the office.
 
 
 Projects View Page : Displays all the current projects at a Glance
